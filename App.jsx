@@ -1,1 +1,1 @@
-# This file will be replaced with actual dashboard code
+export default function App() { return <div>Hello Financial Dashboard</div>; }

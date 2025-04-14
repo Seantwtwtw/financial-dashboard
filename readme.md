@@ -1,2 +1,2 @@
 # Financial Dashboard
-A simple personal finance dashboard using React + Recharts.
+A simple personal finance dashboard using React + Recharts + Vite.
