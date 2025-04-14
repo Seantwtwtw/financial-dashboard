@@ -1,2 +1,2 @@
 # Finova Dashboard
-This is a professional finance dashboard with multi-tab analysis and Google Sheets integration.
+Includes React setup, charts, and logo with working main.jsx and App.jsx
